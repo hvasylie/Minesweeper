@@ -9,5 +9,19 @@ In my implementation you can Create your field as big as you want with the littl
 To add more fun to the game - I also implemented score. Every time you open a non-mine cell - you'll earn 5 points.
 Good luck and sweep carefully :)
 
+
+Here are some screenshots of the game while running.
 ![](screenshot1.png)
+
+
+
+![](screenshot2.png)
+
+
+
+![](screenshot3.png)
+
+
+
+![](screenshot4.png)
 
