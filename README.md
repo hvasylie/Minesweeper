@@ -11,17 +11,17 @@ Good luck and sweep carefully :)
 
 
 Here are some screenshots of the game while running.
-![](screenshot1.png)
+![](img1.png)
 
 
 
-![](screenshot2.png)
+![](img2.png)
 
 
 
-![](screenshot3.png)
+![](img3.png)
 
 
 
-![](screenshot4.png)
+![](img4.png)
 
